@@ -1,5 +1,6 @@
 # jquery-sample
 
+```
 <html>
     <head>
         <script src="http://code.jquery.com/jquery.min.js"></script>
@@ -24,3 +25,4 @@
         </script>
     </body>
 </html>
+```
