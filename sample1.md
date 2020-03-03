@@ -1,5 +1,4 @@
-# jquery-sample
-## select-option display-none
+# select-option display-none
 
 ```
 <html>
